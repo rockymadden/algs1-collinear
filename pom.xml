@@ -6,9 +6,9 @@
 
   <groupId>rockymadden</groupId>
   <artifactId>algs1-collinear</artifactId>
-  <version>1.0</version>
+  <version>1.0.0</version>
 
-  <name>algs-collinear</name>
+  <name>algs1-collinear</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
